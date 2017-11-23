@@ -1,0 +1,91 @@
+#header
+{
+	margin:auto;
+	font:"MS Serif", "New York", serif;
+	font-size:30px;
+	color:#000;
+	float:left;
+	}
+#logo
+{
+ height:70px;
+ width:500px;
+ float:left;
+ margin:auto;
+ margin-top:5px;
+ 
+}
+#image_logo
+{
+	
+	float:left;
+	margin-left:100px;
+	margin-top:10px;
+	margin:auto;
+	
+}
+#text
+{
+	float:left;
+	margin-top:10px;
+	margin:auto;
+	
+}
+
+#search
+{
+	border:1px solid #EEE;
+border-radius:5px;
+height:35px;
+width:540px;
+font-size:20px;
+background:white;
+margin:auto;
+margin-top:20px;
+}
+#search_panel
+{
+	height:40px;
+	float:left;
+	margin-left:40px;
+	margin-top:10px;
+	margin:auto;
+	
+	
+}
+#top
+{
+	width:100%;
+	height:80px;
+	margin:0 auto;
+	background-image:url(../images/background.jpg);
+	
+}
+
+	
+input[type=submit]
+{margin-top:-48px;
+border:1px solid #EEE;
+border-radius:5px;
+height:35px;
+width:120px;
+font-size:20px;
+background:#A00;
+color:#EEE;
+cursor:pointer;
+margin:auto;
+
+}
+input[type=submit]:hover
+{margin-top:-48px;
+border:1px solid #EEE;
+border-radius:5px;
+height:35px;
+width:120px;
+font-size:20px;
+background:#A00;
+color:#EEE;
+cursor:pointer;
+box-shadow:10px 7px 10px #CC0000;
+margin:auto;
+}
