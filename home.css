@@ -1,0 +1,78 @@
+body
+{
+	background-image:url(images/back.jpg);
+
+}
+
+#slider
+{
+	height:300px;
+	width:960px;
+	border:1px ;
+	margin:auto;
+	margin-top:5px;
+	
+	
+}
+
+
+#feeds
+{
+	height:auto;
+	width:250px;
+	border:1px ;
+	float:left;
+	margin-top:30px;
+	background:#FFFFFF;
+	margin-left:20px;
+     
+ }
+ #content
+{
+	height:auto;
+	width:750px;
+	border:1px;
+	float:left;
+	margin-left:20px; 
+	margin-top:30px;
+	background:#FFF;
+ }
+ #trending
+{
+	height:auto;
+	width:250px;
+	border:1px ;
+	float:left;
+	margin-left:20px;
+	margin-top:30px;
+	background:#FFFFFF;
+ }
+ #title
+ {
+	 width:94%;
+	 margin:auto;
+	 font:Georgia, "Times New Roman", Times, serif;
+	 font-family:Georgia, "Times New Roman", Times, serif;
+	 font-size:24px; 
+}
+#date
+ {
+	 font:Georgia, "Times New Roman", Times, serif;
+	 font-family:Georgia, "Times New Roman", Times, serif;
+	 margin-right:2px;
+	 color:#999;
+}
+#image
+{
+	width:90%;
+	margin:auto;
+	margin-bottom:10px;
+}
+#content_user
+ {
+	 width:94%;
+	 	 font:Georgia, "Times New Roman", Times, serif;
+	 font-family:Georgia, "Times New Roman", Times, serif;
+	 font-size:20px;
+	  
+}

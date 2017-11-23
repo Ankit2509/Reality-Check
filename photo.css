@@ -1,0 +1,88 @@
+
+body
+{
+	background-image:url(images/back2.jpg);
+	
+}
+#above
+{
+	height:250px;
+	width:950px;
+	margin:auto;
+	border:1px ;
+	margin-bottom:10px;
+	
+	
+}
+#up_left
+{
+	height:190px;
+	width:190px;
+	border:1px ;
+	float:left;
+	margin-top:20px;
+	margin-right:20px;
+}
+#up_right
+{
+	height:200px;
+	width:596px;
+	border:1px solid;
+	float:left;
+	background:#FFF;
+	margin-top:30px;
+}
+
+#below
+{
+	height:400px;
+	width:960px;
+	margin:auto;
+	border:1px solid;
+	
+	background:#FFFFFF;
+}
+#one
+{height:190px;
+width:190px;
+border:2px solid #000;
+border-radius:100%;
+margin-right:60px;
+}
+
+#images
+{
+	border-radius:100%;
+	
+}
+#add
+{height:30px;
+width:190px;
+border:1px solid #000;
+line-height:30px;
+margin-top:6px;
+color:#F00;
+background:#FFFFFF
+}
+#name
+{
+	font:Georgia, "Times New Roman", Times, serif;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:50px;
+	margin-left:15px;
+	
+}
+#bio
+{
+	font:Georgia, "Times New Roman", Times, serif;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:20px;
+	margin-left:15px;
+	
+}
+input[type=file]
+{
+height:35px;
+font-size:20px;
+
+}
